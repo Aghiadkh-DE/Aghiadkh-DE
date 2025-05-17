@@ -19,12 +19,3 @@ Welcome to my GitHub profile! 🚀
 
 ![Aghiadkh-DE's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aghiadkh-DE&show_icons=true&theme=github_dark)
 
-## 📫 How to Reach Me
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-
----
-
-Thanks for visiting my profile! ⭐️
