@@ -15,7 +15,5 @@ Welcome to my GitHub profile! 🚀
 - Frameworks: React, Node.js, Express, Django
 - Tools: Git, Docker, VS Code, Linux
 
-## 📈 GitHub Stats
 
-![Aghiadkh-DE's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aghiadkh-DE&show_icons=true&theme=github_dark)
 
